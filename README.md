@@ -22,8 +22,8 @@
 
 함께 흥미로운 교육 프로젝트나 기술적 논의를 원하시면 언제든지 연락 주세요!
 
-* 📧 **이메일**: \[teacherdev09@gmail.com]
-* 📌 **GitHub**: \[https://github.com/Devteacher09/]
+* 📧 **이메일**: teacherdev09@gmail.com
+* 📌 **GitHub**: https://github.com/Devteacher09/
 
 감사합니다! 😄
 
