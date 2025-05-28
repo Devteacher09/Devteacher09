@@ -8,12 +8,14 @@
 * **프레임워크 & 플랫폼**: Spring Framework, Spring Boot, React, Vue, Node.js
 * **데이터베이스**: Oracle, PostgreSQL, MongoDB, Weaviate(VectorDB)
 * **AI & 머신러닝**: sklearn, tensorflow, LangChain, Spring AI, 프롬프트엔지니어링
+* **DevOsp** : docker, DI/CD(jenkins, github action), AWS
 
 ## 🚀 현재 관심 있는 분야
 
 * SpringAI 활용
 * sklearn, tensorflow, 프롬프트엔지니어링
 * hugging face활용
+* 효율적인 DevOps 파이프라인 구축 및 관리
 
 
 ## 📫 연락처 및 협업
